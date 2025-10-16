@@ -4,7 +4,7 @@ Here is the code I made while learning to use WebAssembly.
 It runs and visualizes a pathfinding algorithm in the browser.
 
 ## Run online
-Click this link: [github.io/pathfinding](https://askeladd123.github.io/pathfinding/).
+Click this link: [github.io/pathfinding](https://askeladd123.github.io/pathfinding-v1/).
 Requires JavaScript and WebAssembly support; should work in most browsers.
 
 ---
