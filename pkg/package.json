@@ -1,5 +1,6 @@
 {
   "name": "pathfinding",
+  "type": "module",
   "collaborators": [
     "Ask Sødal"
   ],
@@ -9,7 +10,9 @@
     "pathfinding.js",
     "pathfinding.d.ts"
   ],
-  "module": "pathfinding.js",
+  "main": "pathfinding.js",
   "types": "pathfinding.d.ts",
-  "sideEffects": false
+  "sideEffects": [
+    "./snippets/*"
+  ]
 }
